@@ -1,0 +1,10 @@
+name: demo clase
+on: [push]
+
+jobs: 
+  mensaje: 
+  runs-on: ubuntu-latest
+
+  steps: 
+    -name: primer mensaje 
+     run:echo "hola desde github actions"
