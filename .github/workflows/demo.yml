@@ -7,5 +7,4 @@ jobs:
 
     steps: 
       - name: primer mensaje 
-        run:echo "hola desde github actions"
-        
+        run: echo "hola desde github actions"
