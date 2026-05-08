@@ -10,7 +10,7 @@ jobs:
         run: echo "hola desde github actions"
 
       - name: segundo mensaje
-        rrun: echo "este es el segundo paso automatico"
+        run: echo "este es el segundo paso automatico"
 
       - name: ver archivos del repositorio
         run: ls
